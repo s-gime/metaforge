@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 # ⚔️ MetaForge
 
 ### *TeamFight Tactics collaborative analytics platform*
