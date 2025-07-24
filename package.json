@@ -1,0 +1,12 @@
+{
+  "name": "metaforge",
+  "version": "1.0.0",
+  "description": "TFT analytics & prediction platform",
+  "author": "Gaba Dev",
+  "license": "CC0-1.0",
+  "scripts": {
+    "dev": "npm run client & npm run server",
+    "client": "cd client && npm start",
+    "server": "cd server && npm start"
+  }
+}
